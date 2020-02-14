@@ -4,7 +4,7 @@
 **info:   
 - phone number *+375445525530  
 - email *bricklberry@icloud.com  
-**My job:  
+**My work:  
 lawyer, experience - 4 years. But I want to work as a programmer in a modern company. So I started training in RS-School.  
 **Skills:  
 1 HTML;  
