@@ -1,0 +1,9 @@
+body {
+    background: gold;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+img {
+    border-radius: 45%;
+}
