@@ -7,7 +7,7 @@ My name is **Igor Bondarenko**
 **My work**:  
 lawyer, experience - 4 years. But I want to work as a programmer in a modern company. So I started training in RS-School.  
 **Skills**:  
-1 HTML;  
+1 HTML ,basic;  
 2 CSS;  
 3 JavaScript.  
 **English proficiency**: A1  
